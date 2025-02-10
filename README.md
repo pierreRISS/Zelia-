@@ -42,6 +42,3 @@ Voici les étapes pour installer ce projet localement :
 - Prendre des photos des pièces de puzzle éparpillées.
 - Utiliser **Yolo v11** pour analyser l’image et détecter le nombre de pièces.
 - Application qui tourne en **local** pour réaliser l’analyse sur les photos prises.
-
-## Comment contribuer ? 🤝
-Actuellement, le projet est en phase de développement interne. Nous n'acceptons pas encore de contributions externes, mais nous vous tiendrons informés si nous ouvrons les contributions à l'avenir.
