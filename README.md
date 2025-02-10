@@ -16,22 +16,27 @@ Ce projet est **en cours de développement**. Nous avons un modèle capable de *
 - Une **application locale** que nous développons pour intégrer tout cela.
 
 ### Exemple de ce que ça génère : 📷
+![alt text](https://github.com/pierreRISS/Zelia-/blob/main/ressources/images/002593.jpg)
+![alt text](https://github.com/pierreRISS/Zelia-/blob/main/ressources/images/002616.jpg)
 
-- Photo 1 :
-- Photo 2 : 
+
+### Test de l'entraînement sur données de validation: 📷
+
+- Labels :
+  ![alt text](https://github.com/pierreRISS/Zelia-/blob/main/ressources/images/val_batch1_labels.jpg)
+- Résultat:
+  ![alt text](https://github.com/pierreRISS/Zelia-/blob/main/ressources/images/val_batch1_pred.jpg)
 
 ## Où en sommes-nous ? 🚀
 Le projet est encore en développement, avec quelques défis à surmonter, comme faire tourner l’application **en local** de manière optimale. Nous voulons finaliser cette solution pour que des organisations comme **Emmaüs** puissent l'utiliser facilement pour **compter les pièces de puzzle** rapidement.
 
 ## Comment installer le projet ? 🛠️
 Voici les étapes pour installer ce projet localement :
-1. Installer **Blender** pour générer les images de puzzles.
-2. Télécharger **Yolo v11** et configurer l’environnement pour l’entraînement.
-3. Suivre les étapes dans les fichiers `README` pour le fine-tuning et l’entraînement du modèle.
-4. Mettre en place le modèle dans votre environnement local pour tester.
-
-## D’où vient ce projet ? 💡
-Ce projet a été créé par **Pierre et Sacha** pour **Emmaüs**, afin de faciliter leur processus de gestion des puzzles et aider à compter les pièces de manière plus **automatisée** et précise.
+1. Installer **Blenderproc** pour générer les images de puzzles.
+2. Ajouter WitreYoloanimation.py dans "/venv/lib/python3.11/site-packages/blenderproc/python/"
+3. Télécharger **Yolo v11** et configurer l’environnement pour l’entraînement.
+4. Suivre les étapes dans les fichiers `README` pour le fine-tuning et l’entraînement du modèle.
+5. Mettre en place le modèle dans votre environnement local pour tester.
 
 ## Fonctionnalités du projet : 📲
 - Prendre des photos des pièces de puzzle éparpillées.
