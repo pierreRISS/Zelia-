@@ -16,7 +16,6 @@ Ce projet est **en cours de développement**. Nous avons un modèle capable de *
 - Une **application locale** que nous développons pour intégrer tout cela.
 
 ### Exemple de ce que ça génère : 📷
-Vous pouvez ajouter des photos ici pour montrer le résultat du modèle sur les images de pièces de puzzle. Par exemple :
 - Photo 1 :
 - Photo 2 : 
 
