@@ -32,11 +32,17 @@ Le projet est encore en développement, avec quelques défis à surmonter, comme
 
 ## Comment installer le projet ? 🛠️
 Voici les étapes pour installer ce projet localement :
-1. Installer **Blenderproc** pour générer les images de puzzles.
-2. Ajouter WitreYoloanimation.py dans "/venv/lib/python3.11/site-packages/blenderproc/python/"
-3. Télécharger **Yolo v11** et configurer l’environnement pour l’entraînement.
-4. Suivre les étapes dans les fichiers `README` pour le fine-tuning et l’entraînement du modèle.
-5. Mettre en place le modèle dans votre environnement local pour tester.
+1. Installer **Blenderproc** pour générer les images de puzzles
+```
+   https://github.com/DLR-RM/BlenderProc
+```
+3. Ajouter WitreYoloanimation.py dans "/venv/lib/python3.11/site-packages/blenderproc/python/"
+5. Télécharger **Yolo v11** avec **ultralytics** et configurer l’environnement pour l’entraînement.
+```
+  https://github.com/ultralytics/ultralytics
+```
+6. Suivre les étapes dans les fichiers `README` pour le fine-tuning et l’entraînement du modèle.
+7. Mettre en place le modèle dans votre environnement local pour tester.
 
 ## Fonctionnalités du projet : 📲
 - Prendre des photos des pièces de puzzle éparpillées.
