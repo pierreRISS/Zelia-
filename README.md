@@ -1,4 +1,4 @@
-# 🧩 **Compteur de Pièces de Puzzle à partir de Photos** 📸
+# 🧩 **Compteur de Pièces de Puzzle à partir de Photos**
 
 ## Qui sommes-nous ? 👋
 Nous, **Pierre Riss** et **Sacha Henneuveux**, développons ensemble une solution permettant de compter le nombre de pièces de puzzle à partir d'une photo. Ce projet est né de notre initiative, soutenue par le **hub Epitech**, qui nous a fourni des moyens techniques pour avancer, notamment avec des ressources de calcul sur un ordinateur puissant.
@@ -16,6 +16,7 @@ Ce projet est **en cours de développement**. Nous avons un modèle capable de *
 - Une **application locale** que nous développons pour intégrer tout cela.
 
 ### Exemple de ce que ça génère : 📷
+
 - Photo 1 :
 - Photo 2 : 
 
